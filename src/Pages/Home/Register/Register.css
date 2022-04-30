@@ -1,0 +1,12 @@
+.register-form input:not([type=checkbox]){
+    display: block;
+    width: 100%;
+    margin-top: 15px;
+    height: 50px;
+}
+
+.register{
+    background: url(/src/images/footerbg.jpg);
+    background-size: cover;
+    padding: 15px;
+}
